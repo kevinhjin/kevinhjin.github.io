@@ -1,36 +1,21 @@
-## Welcome to GitHub Pages
+## KEVIN H. JIN
 
-You can use the [editor on GitHub](https://github.com/kevinhjin/kevinhjin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my online portfolio where you can explore both my amateur and professional interests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For what it's worth I am college educated, graduating with high honors from the Georgia Institute of Technology in the spring of 2020 in Computer Science.
 
-### Markdown
+I have a high affinity towards all things hardware and low lying software with a burgeoning interest in cybersecurity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's plenty more that will be included that aren't part related to the above but I'll have to figure out where all of this goes.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Computer Hardware and System Architechure
+I have always enjoyed working with electronics at a basic level: building a custom computer, tearing apart old electronics, reading about new technologies; all of which supported my exposure to an entire new realm of microcontroller devices. It was only when I entered my senior year of college did I begin to fully understand the fundamentals of how all of the electronic devices around the world are built and how similar all of them seem to be. when I learned about Arduino and Raspberry Pi, I started to understand that many if not all of the devices and electronics we encounter on a day to day basis can actually be described simply and prototyped readily.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinhjin/kevinhjin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Photography
+My relationship with photography started as a branch off my relationship with electronics. I remember starting my interest by taking pictures with a old sony point and shoot camera and being amazed at how close I could get to my subjects using the macro mode. 
 
 ### Support or Contact
 
